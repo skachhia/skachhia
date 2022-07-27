@@ -1,4 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+👋 Hi, I am @skachhia, a Full-Stack engineer with an overall experience of 7+ years including 5 years as a Java Software Engineer and 3 years as a Web Engineer with a proven track record of successfully delivering more than 5 projects.
+
+A curious soul always intrigued by tech, my interest was piqued while working at Aindra where I was responsible for building projects from scratch, leveraging in house AI platforms for face, text, object detection and cervical cancer cell detection.
+
+After moving to Webonise Lab, I realised my flair for front end technologies as well, hence committed as a Full-Stack engineer (Java and React) and now further looking to enhance my leadership skills. In the process, I have already started participating in the staffing activities and trained more than 20 new recruits on React, GraphQL and Spring frameworks.
 
 <!--
 **skachhia/skachhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
