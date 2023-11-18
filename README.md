@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-👋 Hi, I am @skachhia, a Full stack engineer with an overall experience of 7+ years including 5+ years as Java Software Engineer and 4+ years as Web Engineer with proven track record of successfully delivering more than 5 projects.
+👋 Hi, I am @skachhia, a Full stack engineer with an overall experience of 8+ years including 6+ years as Java Software Engineer and 5+ years as Web Engineer with proven track record of successfully delivering more than 5 projects.
 
 A curious soul always intrigued by tech, my interest was piqued while working at Aindra where I was responsible for building projects from the ground up, leveraging in house AI platforms for face, text, object detection and cervical cancer cell detection.
 
